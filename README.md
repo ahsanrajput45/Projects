@@ -1,1 +1,1 @@
-# Projects
+This is a basic to-do app that allows you to add and delete tasks with associated dates. You can easily create new tasks by entering a description and selecting a due date. Tasks are displayed in a list, and you can remove any task with a single delete button. It’s a straightforward tool to help you stay organized and manage your tasks efficiently.
